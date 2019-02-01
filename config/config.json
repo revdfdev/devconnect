@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "webcubic",
+    "database": "WebcubicConnector_Dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "webcubic",
+    "database": "WebcubicConnector_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "webcubic",
+    "database": "WebcubicConnector",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
